@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Chris\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\Chris\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.11\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\Chris\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.11\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
