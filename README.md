@@ -12,7 +12,7 @@ I'm writing a new one in Arduino that will drive an LED screen with the inputs o
 
 So far I only have the Polar and the Arduino, this code will connect to it (and many BLE heartrate sensors with minor modifications)
 
-very rough draft
+This is a very rough draft.
 
 * HR Measurement defined bluetooth spec uses this flag to tell you some interesting shit:
 <img src="https://www.mariam.qa/post/hr-ble/flag.png" width="400">
